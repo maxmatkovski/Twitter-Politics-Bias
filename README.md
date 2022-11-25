@@ -13,3 +13,5 @@
 ![Image!](Images/republican-bar-graph.png)
 
 
+## Distributions Compared
+![Image!](Images/paired-distribution.png)
