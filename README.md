@@ -12,5 +12,6 @@
 ## Republican Bar Graph
 ![Image!](Images/republican-bar-graph.png)
 
+
 ## Distribution Compared
 ![Image!](Images/paired-distribution.png)
